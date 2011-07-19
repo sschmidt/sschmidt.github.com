@@ -1,0 +1,9 @@
+#block {
+    margin: 0 auto;
+    width: 700px;
+    font-family: 'Istok Web', sans-serif;
+}
+
+
+a:link { text-decoration:none; color:blue; }
+a:visited { text-decoration:none; color:blue; }
